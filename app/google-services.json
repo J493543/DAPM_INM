@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904012761272",
+    "project_id": "dapm-a7518",
+    "storage_bucket": "dapm-a7518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904012761272:android:836d414ea4ed43be284c4d",
+        "android_client_info": {
+          "package_name": "com.dapm.android.dapm_inm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904012761272-2qam1r5jugfdbmba8fr2jai9m4g10uek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeVmFw2JMpEjb6Ga1LU1wXjbvEVygRdbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904012761272-2qam1r5jugfdbmba8fr2jai9m4g10uek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
